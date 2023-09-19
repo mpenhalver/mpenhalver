@@ -20,7 +20,7 @@
     <samp>
         🔩 I’m currently working on AWS as Senior Solutions Architect <br />
         🎓 I’m graduate in Business Administration with MBA in IT Management  <br />
-        🎨 Fun fact: I love my family, soccer and surf. <br />
+        🎨 Fun fact: I love my family, soccer and surf <br />
     </samp>
 </p>
 </div>
